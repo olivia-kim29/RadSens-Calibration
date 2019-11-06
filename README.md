@@ -11,9 +11,11 @@ Repeat Experiment and Calibration
 	a. the data viewer only works on windows machines
 	
 	b. Collect GMC data for some time interval 
+		
 		i. Will collect PG data for calibration over the same timer interval
 	
 	c. Download the .csv from the realtime monitoring of the GMC data or make your own
+		
 		i. Will have to specify the directory which the data is collected in inside the script
 	
 	d. Orient PG (see below)
