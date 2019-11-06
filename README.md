@@ -1,7 +1,8 @@
 # RadSens-Calibration
 
 Pocket Geiger Calibration
-	Instructions and Explanation
+
+Instructions and Explanation
 
 Repeat Experiment and Calibration
 
