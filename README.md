@@ -18,6 +18,9 @@ Repeat Experiment and Calibration
 	
 	d. Orient PG (see below)
 2. Use a source, GMC and PG detector
+
 3. Place them in as similar orientation and distance from the source as possible, do not let anything move during data collection
+
 4. Run the code, it will use the .csv from the GMC and compare the counts from the PG and create a corrected calibration constant and error/percent error
+
 5. The pocket geiger now has a calibration constant which is multuplied by the counts to read out a dose
