@@ -6,7 +6,7 @@ Instructions and Explanation
 
 Repeat Experiment and Calibration
 
-1. Download Calibration code and GQ GMC Data viewer to get .csv data from the GMC detector
+1. Download Calibration code (calibrationsetup.ipynb), calibration data, and GQ GMC Data viewer  to get .csv data from the GMC detector 
 	
 	a. the data viewer only works on windows machines
 	
