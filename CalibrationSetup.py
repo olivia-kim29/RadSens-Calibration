@@ -138,7 +138,7 @@ print(k)
 
 
 PG_Calibration = u/c
-print(PG_Calibration)
+print('PG_Calibration is', PG_Calibration)
 
 
 # In[58]:
@@ -146,14 +146,14 @@ print(PG_Calibration)
 
 #propogating uncertainty
 calibrated_uncertainty = np.sqrt((1/c)**2 * u_e**2 + ((u)/(c)**2)**2 * c_e**2)
-calibrated_uncertainty
+print('calibrated_uncertainty is',calibrated_uncertainty)
 
 
 # In[67]:
 
 
 percent_uncertainty = calibrated_uncertainty/PG_Calibration
-percent_uncertainty
+print("percent_uncertainty is", percent_uncertainty)
 
 
 # In[ ]:
